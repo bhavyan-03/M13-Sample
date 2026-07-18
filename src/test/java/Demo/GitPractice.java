@@ -5,6 +5,8 @@ public class GitPractice {
 		System.out.println("Hello World");
 		System.out.println("Hello git");
 		System.out.println("Hello selenium!");
+		System.out.println("practice git conflict from FE system");
 	}
 
 }
+
