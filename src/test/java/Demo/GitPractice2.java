@@ -8,6 +8,7 @@ public class GitPractice2
 		System.out.println("practice git conflict from ATE system");
 		System.out.println("practice git conflict from FE system");
 		System.out.println("practicing commit operation from ATE system");
+		System.out.println("practicing git conflict again from ATE system");
 	}
 
 }
